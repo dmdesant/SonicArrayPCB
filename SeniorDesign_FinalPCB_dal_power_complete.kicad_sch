@@ -3124,48 +3124,6 @@
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061b31c7f"
       (reference "#PWR0216") (unit 1) (value "GNDPWR") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061b5cbcb"
-      (reference "#PWR0217") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061b5cbd1"
-      (reference "#PWR0218") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061b86063"
-      (reference "#PWR0219") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061b86069"
-      (reference "#PWR0220") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061bafba2"
-      (reference "#PWR0221") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061bafba8"
-      (reference "#PWR0222") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061bda157"
-      (reference "#PWR0223") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061bda15d"
-      (reference "#PWR0224") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061c042c4"
-      (reference "#PWR0225") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061c042ca"
-      (reference "#PWR0226") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061c2ea61"
-      (reference "#PWR0227") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061c2ea67"
-      (reference "#PWR0228") (unit 1) (value "GNDPWR") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061c595cf"
-      (reference "#PWR0229") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061c595d5"
-      (reference "#PWR0230") (unit 1) (value "GNDPWR") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061de9599"
       (reference "#PWR0231") (unit 1) (value "GND") (footprint "")
     )

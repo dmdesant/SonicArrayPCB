@@ -1,0 +1,5061 @@
+(export 
+  (version D) 
+  (design 
+    (source C:\Users\dalap\Desktop\SeniorDesign\SeniorDesign.sch) 
+    (date "12/6/2021 7:56:37 PM") 
+    (tool "Eeschema (5.1.10)-1") 
+    (sheet 
+      (number 1) 
+      (name /) 
+      (tstamps /) 
+      (title_block 
+        (title) 
+        (company) 
+        (rev) 
+        (date) 
+        (source SeniorDesign_FinalPCB_dal_power_complete.sch) 
+        (comment 
+          (number 1) 
+          (value "")) 
+        (comment 
+          (number 2) 
+          (value "")) 
+        (comment 
+          (number 3) 
+          (value "")) 
+        (comment 
+          (number 4) 
+          (value "")))) 
+    (sheet 
+      (number 2) 
+      (name /pwm_driver/) 
+      (tstamps /61B00B00/) 
+      (title_block 
+        (title "Array Column Drivers") 
+        (company WELAC) 
+        (rev 1) 
+        (date 2021-11-10) 
+        (source pwm_driver.sch) 
+        (comment 
+          (number 1) 
+          (value "")) 
+        (comment 
+          (number 2) 
+          (value "")) 
+        (comment 
+          (number 3) 
+          (value "")) 
+        (comment 
+          (number 4) 
+          (value ""))))) 
+  (components 
+    (comp 
+      (ref J2) 
+      (value 5000) 
+      (footprint SeniorDesign:KEYSTONE_5000_TestPoint) 
+      (fields 
+        (field 
+          (name MANUFACTURER) KEYSTONE) 
+        (field 
+          (name MAXIMUM_PACKAGE_HEIGHT) 4.57mm)) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part 5000) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 618CAE06)) 
+    (comp 
+      (ref J1) 
+      (value 5000) 
+      (footprint SeniorDesign:KEYSTONE_5000_TestPoint) 
+      (fields 
+        (field 
+          (name MANUFACTURER) KEYSTONE) 
+        (field 
+          (name MAXIMUM_PACKAGE_HEIGHT) 4.57mm)) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part 5000) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 618CBEFD)) 
+    (comp 
+      (ref U1) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 618E1F87)) 
+    (comp 
+      (ref U2) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 618E1F8F)) 
+    (comp 
+      (ref U3) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 618E1F97)) 
+    (comp 
+      (ref U4) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 618E1F9F)) 
+    (comp 
+      (ref U5) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 618E1FA7)) 
+    (comp 
+      (ref U6) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 618E1FAF)) 
+    (comp 
+      (ref U7) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 618E1FB7)) 
+    (comp 
+      (ref U8) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 618E1FBF)) 
+    (comp 
+      (ref U9) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61900F2D)) 
+    (comp 
+      (ref U10) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61900F33)) 
+    (comp 
+      (ref U11) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61900F39)) 
+    (comp 
+      (ref U12) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61900F3F)) 
+    (comp 
+      (ref U13) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61900F45)) 
+    (comp 
+      (ref U14) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61900F4B)) 
+    (comp 
+      (ref U15) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61900F51)) 
+    (comp 
+      (ref U16) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61900F57)) 
+    (comp 
+      (ref U17) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 619039CF)) 
+    (comp 
+      (ref U18) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 619039D5)) 
+    (comp 
+      (ref U19) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 619039DB)) 
+    (comp 
+      (ref U20) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 619039E1)) 
+    (comp 
+      (ref U21) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 619039E7)) 
+    (comp 
+      (ref U22) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 619039ED)) 
+    (comp 
+      (ref U23) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 619039F3)) 
+    (comp 
+      (ref U24) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 619039F9)) 
+    (comp 
+      (ref U25) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6190652C)) 
+    (comp 
+      (ref U26) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61906532)) 
+    (comp 
+      (ref U27) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61906538)) 
+    (comp 
+      (ref U28) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6190653E)) 
+    (comp 
+      (ref U29) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61906544)) 
+    (comp 
+      (ref U30) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6190654A)) 
+    (comp 
+      (ref U31) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61906550)) 
+    (comp 
+      (ref U32) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61906556)) 
+    (comp 
+      (ref U33) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 619097F4)) 
+    (comp 
+      (ref U34) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 619097FA)) 
+    (comp 
+      (ref U35) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61909800)) 
+    (comp 
+      (ref U36) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61909806)) 
+    (comp 
+      (ref U37) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6190980C)) 
+    (comp 
+      (ref U38) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61909812)) 
+    (comp 
+      (ref U39) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61909818)) 
+    (comp 
+      (ref U40) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6190981E)) 
+    (comp 
+      (ref U41) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6190CB8F)) 
+    (comp 
+      (ref U42) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6190CB95)) 
+    (comp 
+      (ref U43) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6190CB9B)) 
+    (comp 
+      (ref U44) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6190CBA1)) 
+    (comp 
+      (ref U45) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6190CBA7)) 
+    (comp 
+      (ref U46) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6190CBAD)) 
+    (comp 
+      (ref U47) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6190CBB3)) 
+    (comp 
+      (ref U48) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6190CBB9)) 
+    (comp 
+      (ref U49) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61912F6D)) 
+    (comp 
+      (ref U50) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61912F73)) 
+    (comp 
+      (ref U51) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61912F79)) 
+    (comp 
+      (ref U52) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61912F7F)) 
+    (comp 
+      (ref U53) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61912F85)) 
+    (comp 
+      (ref U54) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61912F8B)) 
+    (comp 
+      (ref U55) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61912F91)) 
+    (comp 
+      (ref U56) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61912F97)) 
+    (comp 
+      (ref U57) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6191A392)) 
+    (comp 
+      (ref U58) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6191A398)) 
+    (comp 
+      (ref U59) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6191A39E)) 
+    (comp 
+      (ref U60) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6191A3A4)) 
+    (comp 
+      (ref U61) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6191A3AA)) 
+    (comp 
+      (ref U62) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6191A3B0)) 
+    (comp 
+      (ref U63) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6191A3B6)) 
+    (comp 
+      (ref U64) 
+      (value Transducer) 
+      (footprint SeniorDesign:Transducer) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part Transducer) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 6191A3BC)) 
+    (comp 
+      (ref J3) 
+      (value 5000) 
+      (footprint SeniorDesign:KEYSTONE_5000_TestPoint) 
+      (fields 
+        (field 
+          (name MANUFACTURER) KEYSTONE) 
+        (field 
+          (name MAXIMUM_PACKAGE_HEIGHT) 4.57mm)) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part 5000) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 619831BD)) 
+    (comp 
+      (ref J4) 
+      (value 5000) 
+      (footprint SeniorDesign:KEYSTONE_5000_TestPoint) 
+      (fields 
+        (field 
+          (name MANUFACTURER) KEYSTONE) 
+        (field 
+          (name MAXIMUM_PACKAGE_HEIGHT) 4.57mm)) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part 5000) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61983B26)) 
+    (comp 
+      (ref J7) 
+      (value 5000) 
+      (footprint SeniorDesign:KEYSTONE_5000_TestPoint) 
+      (fields 
+        (field 
+          (name MANUFACTURER) KEYSTONE) 
+        (field 
+          (name MAXIMUM_PACKAGE_HEIGHT) 4.57mm)) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part 5000) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 619850DA)) 
+    (comp 
+      (ref J9) 
+      (value 5000) 
+      (footprint SeniorDesign:KEYSTONE_5000_TestPoint) 
+      (fields 
+        (field 
+          (name MANUFACTURER) KEYSTONE) 
+        (field 
+          (name MAXIMUM_PACKAGE_HEIGHT) 4.57mm)) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part 5000) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61985C47)) 
+    (comp 
+      (ref J5) 
+      (value 5000) 
+      (footprint SeniorDesign:KEYSTONE_5000_TestPoint) 
+      (fields 
+        (field 
+          (name MANUFACTURER) KEYSTONE) 
+        (field 
+          (name MAXIMUM_PACKAGE_HEIGHT) 4.57mm)) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part 5000) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61986672)) 
+    (comp 
+      (ref J6) 
+      (value 5000) 
+      (footprint SeniorDesign:KEYSTONE_5000_TestPoint) 
+      (fields 
+        (field 
+          (name MANUFACTURER) KEYSTONE) 
+        (field 
+          (name MAXIMUM_PACKAGE_HEIGHT) 4.57mm)) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part 5000) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61986EC5)) 
+    (comp 
+      (ref J8) 
+      (value 5000) 
+      (footprint SeniorDesign:KEYSTONE_5000_TestPoint) 
+      (fields 
+        (field 
+          (name MANUFACTURER) KEYSTONE) 
+        (field 
+          (name MAXIMUM_PACKAGE_HEIGHT) 4.57mm)) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part 5000) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61987A53)) 
+    (comp 
+      (ref J10) 
+      (value 5000) 
+      (footprint SeniorDesign:KEYSTONE_5000_TestPoint) 
+      (fields 
+        (field 
+          (name MANUFACTURER) KEYSTONE) 
+        (field 
+          (name MAXIMUM_PACKAGE_HEIGHT) 4.57mm)) 
+      (libsource 
+        (lib SeniorDesign) 
+        (part 5000) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 61988320)) 
+    (comp 
+      (ref C19) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 618F8E6F)) 
+    (comp 
+      (ref Q1) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 618FA8CA)) 
+    (comp 
+      (ref Q2) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 618FC231)) 
+    (comp 
+      (ref R13) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 618FEF7B)) 
+    (comp 
+      (ref R14) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 618FF48F)) 
+    (comp 
+      (ref D1) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6190094E)) 
+    (comp 
+      (ref D2) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61901331)) 
+    (comp 
+      (ref C23) 
+      (value 470u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61903ADC)) 
+    (comp 
+      (ref C27) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 619040C9)) 
+    (comp 
+      (ref C31) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61904AEC)) 
+    (comp 
+      (ref C1) 
+      (value 47u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61906D5E)) 
+    (comp 
+      (ref C7) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 619077C1)) 
+    (comp 
+      (ref R9) 
+      (value 2.2k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6190CAD7)) 
+    (comp 
+      (ref R5) 
+      (value 4.7k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6190F071)) 
+    (comp 
+      (ref C11) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6191248B)) 
+    (comp 
+      (ref C15) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 619135F9)) 
+    (comp 
+      (ref R1) 
+      (value 100) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6191411E)) 
+    (comp 
+      (ref C20) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F8A9)) 
+    (comp 
+      (ref Q3) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F8BB)) 
+    (comp 
+      (ref Q4) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F8C1)) 
+    (comp 
+      (ref R15) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F8CA)) 
+    (comp 
+      (ref R16) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F8D0)) 
+    (comp 
+      (ref D3) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F8E0)) 
+    (comp 
+      (ref D4) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F8E6)) 
+    (comp 
+      (ref C24) 
+      (value 100u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F903)) 
+    (comp 
+      (ref C28) 
+      (value 1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F909)) 
+    (comp 
+      (ref C32) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F90F)) 
+    (comp 
+      (ref C2) 
+      (value 47u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F92E)) 
+    (comp 
+      (ref C8) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F934)) 
+    (comp 
+      (ref R10) 
+      (value 2.2k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F94C)) 
+    (comp 
+      (ref R6) 
+      (value 4.7k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F957)) 
+    (comp 
+      (ref C12) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F96B)) 
+    (comp 
+      (ref C16) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F97A)) 
+    (comp 
+      (ref R2) 
+      (value 100) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6192F980)) 
+    (comp 
+      (ref C21) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 619406B9)) 
+    (comp 
+      (ref Q5) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 619406CB)) 
+    (comp 
+      (ref Q6) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 619406D1)) 
+    (comp 
+      (ref R17) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 619406DA)) 
+    (comp 
+      (ref R18) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 619406E0)) 
+    (comp 
+      (ref D5) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 619406F0)) 
+    (comp 
+      (ref D6) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 619406F6)) 
+    (comp 
+      (ref C25) 
+      (value 100u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61940713)) 
+    (comp 
+      (ref C29) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61940719)) 
+    (comp 
+      (ref C33) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6194071F)) 
+    (comp 
+      (ref C3) 
+      (value 47u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6194073E)) 
+    (comp 
+      (ref C9) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61940744)) 
+    (comp 
+      (ref R11) 
+      (value 2.2k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6194075C)) 
+    (comp 
+      (ref R7) 
+      (value 4.7k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61940767)) 
+    (comp 
+      (ref C13) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6194077B)) 
+    (comp 
+      (ref C17) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 6194078A)) 
+    (comp 
+      (ref R3) 
+      (value 100) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61940790)) 
+    (comp 
+      (ref C22) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A897)) 
+    (comp 
+      (ref Q7) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A8A9)) 
+    (comp 
+      (ref Q8) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A8AF)) 
+    (comp 
+      (ref R19) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A8B8)) 
+    (comp 
+      (ref R20) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A8BE)) 
+    (comp 
+      (ref D7) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A8CE)) 
+    (comp 
+      (ref D8) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A8D4)) 
+    (comp 
+      (ref C26) 
+      (value 100u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A8F1)) 
+    (comp 
+      (ref C30) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A8F7)) 
+    (comp 
+      (ref C34) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A8FD)) 
+    (comp 
+      (ref C4) 
+      (value 47u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A91C)) 
+    (comp 
+      (ref C10) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A922)) 
+    (comp 
+      (ref R12) 
+      (value 2.2k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A93A)) 
+    (comp 
+      (ref R8) 
+      (value 4.7k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A945)) 
+    (comp 
+      (ref C14) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A959)) 
+    (comp 
+      (ref C18) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A968)) 
+    (comp 
+      (ref R4) 
+      (value 100) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61A4A96E)) 
+    (comp 
+      (ref C51) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4000)) 
+    (comp 
+      (ref Q9) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4012)) 
+    (comp 
+      (ref Q10) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4018)) 
+    (comp 
+      (ref R33) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4021)) 
+    (comp 
+      (ref R34) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4027)) 
+    (comp 
+      (ref D9) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4037)) 
+    (comp 
+      (ref D10) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD403D)) 
+    (comp 
+      (ref C55) 
+      (value 100u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD405A)) 
+    (comp 
+      (ref C59) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4060)) 
+    (comp 
+      (ref C63) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4066)) 
+    (comp 
+      (ref C35) 
+      (value 47u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4085)) 
+    (comp 
+      (ref C39) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD408B)) 
+    (comp 
+      (ref R29) 
+      (value 2.2k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD40A3)) 
+    (comp 
+      (ref R25) 
+      (value 4.7k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD40AE)) 
+    (comp 
+      (ref C43) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD40C2)) 
+    (comp 
+      (ref C47) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD40D1)) 
+    (comp 
+      (ref R21) 
+      (value 100) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD40D7)) 
+    (comp 
+      (ref C52) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD40F0)) 
+    (comp 
+      (ref Q11) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4102)) 
+    (comp 
+      (ref Q12) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4108)) 
+    (comp 
+      (ref R35) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4111)) 
+    (comp 
+      (ref R36) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4117)) 
+    (comp 
+      (ref D11) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4127)) 
+    (comp 
+      (ref D12) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD412D)) 
+    (comp 
+      (ref C56) 
+      (value 100u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD414A)) 
+    (comp 
+      (ref C60) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4150)) 
+    (comp 
+      (ref C64) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4156)) 
+    (comp 
+      (ref C36) 
+      (value 47u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4175)) 
+    (comp 
+      (ref C40) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD417B)) 
+    (comp 
+      (ref R30) 
+      (value 2.2k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4193)) 
+    (comp 
+      (ref R26) 
+      (value 4.7k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD419E)) 
+    (comp 
+      (ref C44) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD41B2)) 
+    (comp 
+      (ref C48) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD41C1)) 
+    (comp 
+      (ref R22) 
+      (value 100) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD41C7)) 
+    (comp 
+      (ref C53) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD41E0)) 
+    (comp 
+      (ref Q13) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD41F2)) 
+    (comp 
+      (ref Q14) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD41F8)) 
+    (comp 
+      (ref R37) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4201)) 
+    (comp 
+      (ref R38) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4207)) 
+    (comp 
+      (ref D13) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4217)) 
+    (comp 
+      (ref D14) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD421D)) 
+    (comp 
+      (ref C57) 
+      (value 100u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD423A)) 
+    (comp 
+      (ref C61) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4240)) 
+    (comp 
+      (ref C65) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4246)) 
+    (comp 
+      (ref C37) 
+      (value 47u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4265)) 
+    (comp 
+      (ref C41) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD426B)) 
+    (comp 
+      (ref R31) 
+      (value 2.2k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4283)) 
+    (comp 
+      (ref R27) 
+      (value 4.7k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD428E)) 
+    (comp 
+      (ref C45) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD42A2)) 
+    (comp 
+      (ref C49) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD42B1)) 
+    (comp 
+      (ref R23) 
+      (value 100) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD42B7)) 
+    (comp 
+      (ref C54) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD42D0)) 
+    (comp 
+      (ref Q15) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD42E2)) 
+    (comp 
+      (ref Q16) 
+      (value Si7450DP) 
+      (footprint Package_SO:PowerPAK_SO-8_Single) 
+      (datasheet https://www.vishay.com/docs/71432/si7450dp.pdf) 
+      (libsource 
+        (lib Transistor_FET) 
+        (part Si7450DP) 
+        (description "5.3A Id, 200V Vds, 80mOhm Ron, PowerPAK-8")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD42E8)) 
+    (comp 
+      (ref R39) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD42F1)) 
+    (comp 
+      (ref R40) 
+      (value 10) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD42F7)) 
+    (comp 
+      (ref D15) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4307)) 
+    (comp 
+      (ref D16) 
+      (value ER3GTR) 
+      (footprint Diode_SMD:D_SMC) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part D) 
+        (description Diode)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD430D)) 
+    (comp 
+      (ref C58) 
+      (value 100u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD432A)) 
+    (comp 
+      (ref C62) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4330)) 
+    (comp 
+      (ref C66) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4336)) 
+    (comp 
+      (ref C38) 
+      (value 47u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part CP) 
+        (description "Polarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4355)) 
+    (comp 
+      (ref C42) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD435B)) 
+    (comp 
+      (ref R32) 
+      (value 2.2k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4373)) 
+    (comp 
+      (ref R28) 
+      (value 4.7k) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD437E)) 
+    (comp 
+      (ref C46) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD4392)) 
+    (comp 
+      (ref C50) 
+      (value 100p) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD43A1)) 
+    (comp 
+      (ref R24) 
+      (value 100) 
+      (footprint Resistor_SMD:R_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part R) 
+        (description Resistor)) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61AD43A7)) 
+    (comp 
+      (ref J11) 
+      (value POWER) 
+      (datasheet ~) 
+      (libsource 
+        (lib Connector) 
+        (part Screw_Terminal_01x04) 
+        (description "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61DE8D1E)) 
+    (comp 
+      (ref C5) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61F0A2F7)) 
+    (comp 
+      (ref C6) 
+      (value 0.1u) 
+      (footprint Capacitor_SMD:C_0603_1608Metric) 
+      (datasheet ~) 
+      (libsource 
+        (lib Device) 
+        (part C) 
+        (description "Unpolarized capacitor")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61F71669)) 
+    (comp 
+      (ref U?1) 
+      (value L6494LDTR) 
+      (footprint SeniorDesign:L6494LDTR) 
+      (libsource 
+        (lib ubass) 
+        (part L6494LDTR) 
+        (description "")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61B6E9D6)) 
+    (comp 
+      (ref U?2) 
+      (value L6494LDTR) 
+      (footprint SeniorDesign:L6494LDTR) 
+      (libsource 
+        (lib ubass) 
+        (part L6494LDTR) 
+        (description "")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61B70AE5)) 
+    (comp 
+      (ref U?3) 
+      (value L6494LDTR) 
+      (footprint SeniorDesign:L6494LDTR) 
+      (libsource 
+        (lib ubass) 
+        (part L6494LDTR) 
+        (description "")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61B729D1)) 
+    (comp 
+      (ref U?4) 
+      (value L6494LDTR) 
+      (footprint SeniorDesign:L6494LDTR) 
+      (libsource 
+        (lib ubass) 
+        (part L6494LDTR) 
+        (description "")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61B75A55)) 
+    (comp 
+      (ref U?5) 
+      (value L6494LDTR) 
+      (footprint SeniorDesign:L6494LDTR) 
+      (libsource 
+        (lib ubass) 
+        (part L6494LDTR) 
+        (description "")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61B777E5)) 
+    (comp 
+      (ref U?6) 
+      (value L6494LDTR) 
+      (footprint SeniorDesign:L6494LDTR) 
+      (libsource 
+        (lib ubass) 
+        (part L6494LDTR) 
+        (description "")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61B7805E)) 
+    (comp 
+      (ref U?7) 
+      (value L6494LDTR) 
+      (footprint SeniorDesign:L6494LDTR) 
+      (libsource 
+        (lib ubass) 
+        (part L6494LDTR) 
+        (description "")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61B7B624)) 
+    (comp 
+      (ref U?8) 
+      (value L6494LDTR) 
+      (footprint SeniorDesign:L6494LDTR) 
+      (libsource 
+        (lib ubass) 
+        (part L6494LDTR) 
+        (description "")) 
+      (sheetpath 
+        (names /pwm_driver/) 
+        (tstamps /61B00B00/)) 
+      (tstamp 61B7BDD6))) 
+  (libparts 
+    (libpart 
+      (lib Connector) 
+      (part Screw_Terminal_01x04) 
+      (description "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)") 
+      (docs ~) 
+      (footprints 
+        (fp TerminalBlock*:*)) 
+      (fields 
+        (field 
+          (name Reference) J) 
+        (field 
+          (name Value) Screw_Terminal_01x04)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name Pin_1) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name Pin_2) 
+          (type passive)) 
+        (pin 
+          (num 3) 
+          (name Pin_3) 
+          (type passive)) 
+        (pin 
+          (num 4) 
+          (name Pin_4) 
+          (type passive)))) 
+    (libpart 
+      (lib Device) 
+      (part C) 
+      (description "Unpolarized capacitor") 
+      (docs ~) 
+      (footprints 
+        (fp C_*)) 
+      (fields 
+        (field 
+          (name Reference) C) 
+        (field 
+          (name Value) C)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name ~) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name ~) 
+          (type passive)))) 
+    (libpart 
+      (lib Device) 
+      (part CP) 
+      (description "Polarized capacitor") 
+      (docs ~) 
+      (footprints 
+        (fp CP_*)) 
+      (fields 
+        (field 
+          (name Reference) C) 
+        (field 
+          (name Value) CP)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name ~) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name ~) 
+          (type passive)))) 
+    (libpart 
+      (lib Device) 
+      (part D) 
+      (description Diode) 
+      (docs ~) 
+      (footprints 
+        (fp TO-???*) 
+        (fp *_Diode_*) 
+        (fp *SingleDiode*) 
+        (fp D_*)) 
+      (fields 
+        (field 
+          (name Reference) D) 
+        (field 
+          (name Value) D)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name K) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name A) 
+          (type passive)))) 
+    (libpart 
+      (lib Device) 
+      (part R) 
+      (description Resistor) 
+      (docs ~) 
+      (footprints 
+        (fp R_*)) 
+      (fields 
+        (field 
+          (name Reference) R) 
+        (field 
+          (name Value) R)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name ~) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name ~) 
+          (type passive)))) 
+    (libpart 
+      (lib SeniorDesign) 
+      (part 5000) 
+      (fields 
+        (field 
+          (name Reference) J) 
+        (field 
+          (name Value) 5000) 
+        (field 
+          (name Footprint) KEYSTONE_5000) 
+        (field 
+          (name MANUFACTURER) KEYSTONE) 
+        (field 
+          (name MAXIMUM_PACKAGE_HEIGHT) 4.57mm)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name 1) 
+          (type passive)))) 
+    (libpart 
+      (lib SeniorDesign) 
+      (part Transducer) 
+      (fields 
+        (field 
+          (name Reference) U) 
+        (field 
+          (name Value) Transducer)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name SIG) 
+          (type input)) 
+        (pin 
+          (num 2) 
+          (name GND) 
+          (type input)))) 
+    (libpart 
+      (lib Transistor_FET) 
+      (part Si7336ADP) 
+      (aliases 
+        (alias Si7450DP)) 
+      (description "30A Id, 30V Vds, 2.4mOhm Ron, PowerPAK-8") 
+      (docs https://www.vishay.com/docs/73152/si7336adp.pdf) 
+      (footprints 
+        (fp PowerPAK*SO*Single*)) 
+      (fields 
+        (field 
+          (name Reference) Q) 
+        (field 
+          (name Value) Si7336ADP) 
+        (field 
+          (name Footprint) Package_SO:PowerPAK_SO-8_Single)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name S) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name S) 
+          (type passive)) 
+        (pin 
+          (num 3) 
+          (name S) 
+          (type passive)) 
+        (pin 
+          (num 4) 
+          (name G) 
+          (type input)) 
+        (pin 
+          (num 5) 
+          (name D) 
+          (type passive)))) 
+    (libpart 
+      (lib ubass) 
+      (part L6494LDTR) 
+      (fields 
+        (field 
+          (name Reference) U?) 
+        (field 
+          (name Value) L6494LDTR)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name IN) 
+          (type input)) 
+        (pin 
+          (num 2) 
+          (name SD*) 
+          (type input)) 
+        (pin 
+          (num 3) 
+          (name SGND) 
+          (type passive)) 
+        (pin 
+          (num 4) 
+          (name DT) 
+          (type input)) 
+        (pin 
+          (num 5) 
+          (name PGND) 
+          (type passive)) 
+        (pin 
+          (num 6) 
+          (name LVG) 
+          (type output)) 
+        (pin 
+          (num 7) 
+          (name VCC) 
+          (type power_in)) 
+        (pin 
+          (num 11) 
+          (name OUT) 
+          (type BiDi)) 
+        (pin 
+          (num 12) 
+          (name HVG) 
+          (type output)) 
+        (pin 
+          (num 13) 
+          (name BOOT) 
+          (type input))))) 
+  (libraries 
+    (library 
+      (logical Connector) 
+      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/Connector.lib")) 
+    (library 
+      (logical Device) 
+      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/Device.lib")) 
+    (library 
+      (logical SeniorDesign) 
+      (uri C:\Users\dalap\Desktop\SeniorDesign/SeniorDesign.lib)) 
+    (library 
+      (logical Transistor_FET) 
+      (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/Transistor_FET.lib")) 
+    (library 
+      (logical ubass) 
+      (uri C:\Users\dalap\Desktop\SeniorDesign/ubass.lib))) 
+  (nets 
+    (net 
+      (code 1) 
+      (name V6) 
+      (node 
+        (ref J8) 
+        (pin 1)) 
+      (node 
+        (ref U44) 
+        (pin 1)) 
+      (node 
+        (ref U43) 
+        (pin 1)) 
+      (node 
+        (ref U45) 
+        (pin 1)) 
+      (node 
+        (ref U42) 
+        (pin 1)) 
+      (node 
+        (ref U46) 
+        (pin 1)) 
+      (node 
+        (ref U41) 
+        (pin 1)) 
+      (node 
+        (ref U47) 
+        (pin 1)) 
+      (node 
+        (ref U48) 
+        (pin 1))) 
+    (net 
+      (code 2) 
+      (name V5) 
+      (node 
+        (ref U40) 
+        (pin 1)) 
+      (node 
+        (ref U33) 
+        (pin 1)) 
+      (node 
+        (ref J7) 
+        (pin 1)) 
+      (node 
+        (ref U39) 
+        (pin 1)) 
+      (node 
+        (ref U38) 
+        (pin 1)) 
+      (node 
+        (ref U37) 
+        (pin 1)) 
+      (node 
+        (ref U36) 
+        (pin 1)) 
+      (node 
+        (ref U35) 
+        (pin 1)) 
+      (node 
+        (ref U34) 
+        (pin 1))) 
+    (net 
+      (code 3) 
+      (name V3) 
+      (node 
+        (ref U23) 
+        (pin 1)) 
+      (node 
+        (ref U20) 
+        (pin 1)) 
+      (node 
+        (ref U21) 
+        (pin 1)) 
+      (node 
+        (ref U19) 
+        (pin 1)) 
+      (node 
+        (ref U22) 
+        (pin 1)) 
+      (node 
+        (ref U24) 
+        (pin 1)) 
+      (node 
+        (ref U18) 
+        (pin 1)) 
+      (node 
+        (ref U17) 
+        (pin 1)) 
+      (node 
+        (ref J5) 
+        (pin 1))) 
+    (net 
+      (code 4) 
+      (name V8) 
+      (node 
+        (ref U59) 
+        (pin 1)) 
+      (node 
+        (ref U58) 
+        (pin 1)) 
+      (node 
+        (ref U60) 
+        (pin 1)) 
+      (node 
+        (ref U64) 
+        (pin 1)) 
+      (node 
+        (ref U62) 
+        (pin 1)) 
+      (node 
+        (ref U63) 
+        (pin 1)) 
+      (node 
+        (ref U57) 
+        (pin 1)) 
+      (node 
+        (ref J10) 
+        (pin 1)) 
+      (node 
+        (ref U61) 
+        (pin 1))) 
+    (net 
+      (code 5) 
+      (name V4) 
+      (node 
+        (ref J6) 
+        (pin 1)) 
+      (node 
+        (ref U26) 
+        (pin 1)) 
+      (node 
+        (ref U27) 
+        (pin 1)) 
+      (node 
+        (ref U28) 
+        (pin 1)) 
+      (node 
+        (ref U29) 
+        (pin 1)) 
+      (node 
+        (ref U31) 
+        (pin 1)) 
+      (node 
+        (ref U32) 
+        (pin 1)) 
+      (node 
+        (ref U25) 
+        (pin 1)) 
+      (node 
+        (ref U30) 
+        (pin 1))) 
+    (net 
+      (code 6) 
+      (name V7) 
+      (node 
+        (ref U55) 
+        (pin 1)) 
+      (node 
+        (ref J9) 
+        (pin 1)) 
+      (node 
+        (ref U56) 
+        (pin 1)) 
+      (node 
+        (ref U54) 
+        (pin 1)) 
+      (node 
+        (ref U53) 
+        (pin 1)) 
+      (node 
+        (ref U52) 
+        (pin 1)) 
+      (node 
+        (ref U51) 
+        (pin 1)) 
+      (node 
+        (ref U50) 
+        (pin 1)) 
+      (node 
+        (ref U49) 
+        (pin 1))) 
+    (net 
+      (code 7) 
+      (name V2) 
+      (node 
+        (ref U12) 
+        (pin 1)) 
+      (node 
+        (ref U16) 
+        (pin 1)) 
+      (node 
+        (ref U10) 
+        (pin 1)) 
+      (node 
+        (ref U11) 
+        (pin 1)) 
+      (node 
+        (ref J4) 
+        (pin 1)) 
+      (node 
+        (ref U14) 
+        (pin 1)) 
+      (node 
+        (ref U9) 
+        (pin 1)) 
+      (node 
+        (ref U15) 
+        (pin 1)) 
+      (node 
+        (ref U13) 
+        (pin 1))) 
+    (net 
+      (code 8) 
+      (name V1) 
+      (node 
+        (ref U7) 
+        (pin 1)) 
+      (node 
+        (ref U6) 
+        (pin 1)) 
+      (node 
+        (ref U8) 
+        (pin 1)) 
+      (node 
+        (ref U1) 
+        (pin 1)) 
+      (node 
+        (ref U2) 
+        (pin 1)) 
+      (node 
+        (ref J3) 
+        (pin 1)) 
+      (node 
+        (ref U3) 
+        (pin 1)) 
+      (node 
+        (ref U4) 
+        (pin 1)) 
+      (node 
+        (ref U5) 
+        (pin 1))) 
+    (net 
+      (code 9) 
+      (name VCC) 
+      (node 
+        (ref J2) 
+        (pin 1))) 
+    (net 
+      (code 10) 
+      (name GND) 
+      (node 
+        (ref C43) 
+        (pin 1)) 
+      (node 
+        (ref C38) 
+        (pin 2)) 
+      (node 
+        (ref U?5) 
+        (pin 5)) 
+      (node 
+        (ref U?6) 
+        (pin 3)) 
+      (node 
+        (ref U?6) 
+        (pin 5)) 
+      (node 
+        (ref R25) 
+        (pin 2)) 
+      (node 
+        (ref C63) 
+        (pin 1)) 
+      (node 
+        (ref C33) 
+        (pin 1)) 
+      (node 
+        (ref C47) 
+        (pin 1)) 
+      (node 
+        (ref C25) 
+        (pin 2)) 
+      (node 
+        (ref Q12) 
+        (pin 3)) 
+      (node 
+        (ref Q12) 
+        (pin 2)) 
+      (node 
+        (ref Q12) 
+        (pin 1)) 
+      (node 
+        (ref C29) 
+        (pin 1)) 
+      (node 
+        (ref C48) 
+        (pin 1)) 
+      (node 
+        (ref C44) 
+        (pin 1)) 
+      (node 
+        (ref R26) 
+        (pin 2)) 
+      (node 
+        (ref C3) 
+        (pin 2)) 
+      (node 
+        (ref Q16) 
+        (pin 3)) 
+      (node 
+        (ref Q16) 
+        (pin 2)) 
+      (node 
+        (ref C26) 
+        (pin 2)) 
+      (node 
+        (ref R27) 
+        (pin 2)) 
+      (node 
+        (ref C30) 
+        (pin 1)) 
+      (node 
+        (ref C49) 
+        (pin 1)) 
+      (node 
+        (ref C45) 
+        (pin 1)) 
+      (node 
+        (ref C13) 
+        (pin 1)) 
+      (node 
+        (ref C5) 
+        (pin 1)) 
+      (node 
+        (ref J11) 
+        (pin 3)) 
+      (node 
+        (ref J11) 
+        (pin 2)) 
+      (node 
+        (ref C55) 
+        (pin 2)) 
+      (node 
+        (ref C59) 
+        (pin 1)) 
+      (node 
+        (ref C6) 
+        (pin 2)) 
+      (node 
+        (ref C60) 
+        (pin 1)) 
+      (node 
+        (ref C17) 
+        (pin 1)) 
+      (node 
+        (ref C64) 
+        (pin 1)) 
+      (node 
+        (ref C56) 
+        (pin 2)) 
+      (node 
+        (ref R7) 
+        (pin 2)) 
+      (node 
+        (ref C40) 
+        (pin 1)) 
+      (node 
+        (ref C36) 
+        (pin 2)) 
+      (node 
+        (ref Q4) 
+        (pin 3)) 
+      (node 
+        (ref C50) 
+        (pin 1)) 
+      (node 
+        (ref C1) 
+        (pin 2)) 
+      (node 
+        (ref Q4) 
+        (pin 2)) 
+      (node 
+        (ref Q2) 
+        (pin 1)) 
+      (node 
+        (ref Q2) 
+        (pin 2)) 
+      (node 
+        (ref Q2) 
+        (pin 3)) 
+      (node 
+        (ref C27) 
+        (pin 1)) 
+      (node 
+        (ref C31) 
+        (pin 1)) 
+      (node 
+        (ref C8) 
+        (pin 1)) 
+      (node 
+        (ref C2) 
+        (pin 2)) 
+      (node 
+        (ref Q4) 
+        (pin 1)) 
+      (node 
+        (ref Q6) 
+        (pin 1)) 
+      (node 
+        (ref Q6) 
+        (pin 2)) 
+      (node 
+        (ref C12) 
+        (pin 1)) 
+      (node 
+        (ref C16) 
+        (pin 1)) 
+      (node 
+        (ref Q6) 
+        (pin 3)) 
+      (node 
+        (ref C32) 
+        (pin 1)) 
+      (node 
+        (ref C28) 
+        (pin 1)) 
+      (node 
+        (ref C24) 
+        (pin 2)) 
+      (node 
+        (ref R6) 
+        (pin 2)) 
+      (node 
+        (ref C23) 
+        (pin 2)) 
+      (node 
+        (ref U?3) 
+        (pin 3)) 
+      (node 
+        (ref U?1) 
+        (pin 3)) 
+      (node 
+        (ref C14) 
+        (pin 1)) 
+      (node 
+        (ref U?4) 
+        (pin 5)) 
+      (node 
+        (ref U?4) 
+        (pin 3)) 
+      (node 
+        (ref C18) 
+        (pin 1)) 
+      (node 
+        (ref U?3) 
+        (pin 5)) 
+      (node 
+        (ref C42) 
+        (pin 1)) 
+      (node 
+        (ref C9) 
+        (pin 1)) 
+      (node 
+        (ref U?8) 
+        (pin 5)) 
+      (node 
+        (ref U?8) 
+        (pin 3)) 
+      (node 
+        (ref U?7) 
+        (pin 5)) 
+      (node 
+        (ref U?7) 
+        (pin 3)) 
+      (node 
+        (ref R8) 
+        (pin 2)) 
+      (node 
+        (ref C39) 
+        (pin 1)) 
+      (node 
+        (ref U?2) 
+        (pin 5)) 
+      (node 
+        (ref U?2) 
+        (pin 3)) 
+      (node 
+        (ref C35) 
+        (pin 2)) 
+      (node 
+        (ref U?1) 
+        (pin 5)) 
+      (node 
+        (ref C11) 
+        (pin 1)) 
+      (node 
+        (ref R5) 
+        (pin 2)) 
+      (node 
+        (ref C15) 
+        (pin 1)) 
+      (node 
+        (ref C7) 
+        (pin 1)) 
+      (node 
+        (ref C62) 
+        (pin 1)) 
+      (node 
+        (ref C66) 
+        (pin 1)) 
+      (node 
+        (ref C58) 
+        (pin 2)) 
+      (node 
+        (ref R28) 
+        (pin 2)) 
+      (node 
+        (ref C46) 
+        (pin 1)) 
+      (node 
+        (ref U?5) 
+        (pin 3)) 
+      (node 
+        (ref Q10) 
+        (pin 1)) 
+      (node 
+        (ref Q10) 
+        (pin 2)) 
+      (node 
+        (ref Q10) 
+        (pin 3)) 
+      (node 
+        (ref U2) 
+        (pin 2)) 
+      (node 
+        (ref U1) 
+        (pin 2)) 
+      (node 
+        (ref U7) 
+        (pin 2)) 
+      (node 
+        (ref J1) 
+        (pin 1)) 
+      (node 
+        (ref U33) 
+        (pin 2)) 
+      (node 
+        (ref U3) 
+        (pin 2)) 
+      (node 
+        (ref U8) 
+        (pin 2)) 
+      (node 
+        (ref U32) 
+        (pin 2)) 
+      (node 
+        (ref U31) 
+        (pin 2)) 
+      (node 
+        (ref U30) 
+        (pin 2)) 
+      (node 
+        (ref U29) 
+        (pin 2)) 
+      (node 
+        (ref U28) 
+        (pin 2)) 
+      (node 
+        (ref U27) 
+        (pin 2)) 
+      (node 
+        (ref U9) 
+        (pin 2)) 
+      (node 
+        (ref U26) 
+        (pin 2)) 
+      (node 
+        (ref U6) 
+        (pin 2)) 
+      (node 
+        (ref U5) 
+        (pin 2)) 
+      (node 
+        (ref U4) 
+        (pin 2)) 
+      (node 
+        (ref U19) 
+        (pin 2)) 
+      (node 
+        (ref U18) 
+        (pin 2)) 
+      (node 
+        (ref U17) 
+        (pin 2)) 
+      (node 
+        (ref C65) 
+        (pin 1)) 
+      (node 
+        (ref C61) 
+        (pin 1)) 
+      (node 
+        (ref C57) 
+        (pin 2)) 
+      (node 
+        (ref U25) 
+        (pin 2)) 
+      (node 
+        (ref U11) 
+        (pin 2)) 
+      (node 
+        (ref U20) 
+        (pin 2)) 
+      (node 
+        (ref U24) 
+        (pin 2)) 
+      (node 
+        (ref U23) 
+        (pin 2)) 
+      (node 
+        (ref U22) 
+        (pin 2)) 
+      (node 
+        (ref U21) 
+        (pin 2)) 
+      (node 
+        (ref U40) 
+        (pin 2)) 
+      (node 
+        (ref U39) 
+        (pin 2)) 
+      (node 
+        (ref U38) 
+        (pin 2)) 
+      (node 
+        (ref U37) 
+        (pin 2)) 
+      (node 
+        (ref U36) 
+        (pin 2)) 
+      (node 
+        (ref U35) 
+        (pin 2)) 
+      (node 
+        (ref U34) 
+        (pin 2)) 
+      (node 
+        (ref U42) 
+        (pin 2)) 
+      (node 
+        (ref U41) 
+        (pin 2)) 
+      (node 
+        (ref U53) 
+        (pin 2)) 
+      (node 
+        (ref U49) 
+        (pin 2)) 
+      (node 
+        (ref U48) 
+        (pin 2)) 
+      (node 
+        (ref U47) 
+        (pin 2)) 
+      (node 
+        (ref U46) 
+        (pin 2)) 
+      (node 
+        (ref U45) 
+        (pin 2)) 
+      (node 
+        (ref U44) 
+        (pin 2)) 
+      (node 
+        (ref U52) 
+        (pin 2)) 
+      (node 
+        (ref U51) 
+        (pin 2)) 
+      (node 
+        (ref U50) 
+        (pin 2)) 
+      (node 
+        (ref U43) 
+        (pin 2)) 
+      (node 
+        (ref U56) 
+        (pin 2)) 
+      (node 
+        (ref U55) 
+        (pin 2)) 
+      (node 
+        (ref U54) 
+        (pin 2)) 
+      (node 
+        (ref U62) 
+        (pin 2)) 
+      (node 
+        (ref U61) 
+        (pin 2)) 
+      (node 
+        (ref U60) 
+        (pin 2)) 
+      (node 
+        (ref U59) 
+        (pin 2)) 
+      (node 
+        (ref U58) 
+        (pin 2)) 
+      (node 
+        (ref U57) 
+        (pin 2)) 
+      (node 
+        (ref U10) 
+        (pin 2)) 
+      (node 
+        (ref U16) 
+        (pin 2)) 
+      (node 
+        (ref U15) 
+        (pin 2)) 
+      (node 
+        (ref U14) 
+        (pin 2)) 
+      (node 
+        (ref U13) 
+        (pin 2)) 
+      (node 
+        (ref U12) 
+        (pin 2)) 
+      (node 
+        (ref U64) 
+        (pin 2)) 
+      (node 
+        (ref U63) 
+        (pin 2)) 
+      (node 
+        (ref Q16) 
+        (pin 1)) 
+      (node 
+        (ref C41) 
+        (pin 1)) 
+      (node 
+        (ref Q14) 
+        (pin 3)) 
+      (node 
+        (ref C37) 
+        (pin 2)) 
+      (node 
+        (ref C10) 
+        (pin 1)) 
+      (node 
+        (ref C4) 
+        (pin 2)) 
+      (node 
+        (ref C34) 
+        (pin 1)) 
+      (node 
+        (ref Q14) 
+        (pin 1)) 
+      (node 
+        (ref Q14) 
+        (pin 2)) 
+      (node 
+        (ref Q8) 
+        (pin 3)) 
+      (node 
+        (ref Q8) 
+        (pin 2)) 
+      (node 
+        (ref Q8) 
+        (pin 1))) 
+    (net 
+      (code 11) 
+      (name "Net-(D14-Pad1)") 
+      (node 
+        (ref R38) 
+        (pin 2)) 
+      (node 
+        (ref U?7) 
+        (pin 6)) 
+      (node 
+        (ref D14) 
+        (pin 1))) 
+    (net 
+      (code 12) 
+      (name "Net-(D14-Pad2)") 
+      (node 
+        (ref Q14) 
+        (pin 4)) 
+      (node 
+        (ref D14) 
+        (pin 2)) 
+      (node 
+        (ref R38) 
+        (pin 1))) 
+    (net 
+      (code 13) 
+      (name "Net-(D13-Pad2)") 
+      (node 
+        (ref D13) 
+        (pin 2)) 
+      (node 
+        (ref Q13) 
+        (pin 4)) 
+      (node 
+        (ref R37) 
+        (pin 1))) 
+    (net 
+      (code 14) 
+      (name "Net-(D13-Pad1)") 
+      (node 
+        (ref U?7) 
+        (pin 12)) 
+      (node 
+        (ref R37) 
+        (pin 2)) 
+      (node 
+        (ref D13) 
+        (pin 1))) 
+    (net 
+      (code 15) 
+      (name "Net-(C54-Pad2)") 
+      (node 
+        (ref U?8) 
+        (pin 13)) 
+      (node 
+        (ref C54) 
+        (pin 2))) 
+    (net 
+      (code 16) 
+      (name /pwm_driver/COL7_SIG) 
+      (node 
+        (ref R23) 
+        (pin 2))) 
+    (net 
+      (code 17) 
+      (name "Net-(C49-Pad2)") 
+      (node 
+        (ref R23) 
+        (pin 1)) 
+      (node 
+        (ref U?7) 
+        (pin 1)) 
+      (node 
+        (ref C49) 
+        (pin 2))) 
+    (net 
+      (code 18) 
+      (name "Net-(D16-Pad2)") 
+      (node 
+        (ref D16) 
+        (pin 2)) 
+      (node 
+        (ref Q16) 
+        (pin 4)) 
+      (node 
+        (ref R40) 
+        (pin 1))) 
+    (net 
+      (code 19) 
+      (name "Net-(R27-Pad1)") 
+      (node 
+        (ref R27) 
+        (pin 1)) 
+      (node 
+        (ref U?7) 
+        (pin 4))) 
+    (net 
+      (code 20) 
+      (name "Net-(R31-Pad1)") 
+      (node 
+        (ref R31) 
+        (pin 1)) 
+      (node 
+        (ref U?7) 
+        (pin 2))) 
+    (net 
+      (code 21) 
+      (name "Net-(D11-Pad2)") 
+      (node 
+        (ref Q11) 
+        (pin 4)) 
+      (node 
+        (ref D11) 
+        (pin 2)) 
+      (node 
+        (ref R35) 
+        (pin 1))) 
+    (net 
+      (code 22) 
+      (name "Net-(D12-Pad1)") 
+      (node 
+        (ref D12) 
+        (pin 1)) 
+      (node 
+        (ref R36) 
+        (pin 2)) 
+      (node 
+        (ref U?6) 
+        (pin 6))) 
+    (net 
+      (code 23) 
+      (name "Net-(D11-Pad1)") 
+      (node 
+        (ref D11) 
+        (pin 1)) 
+      (node 
+        (ref R35) 
+        (pin 2)) 
+      (node 
+        (ref U?6) 
+        (pin 12))) 
+    (net 
+      (code 24) 
+      (name "Net-(D12-Pad2)") 
+      (node 
+        (ref D12) 
+        (pin 2)) 
+      (node 
+        (ref R36) 
+        (pin 1)) 
+      (node 
+        (ref Q12) 
+        (pin 4))) 
+    (net 
+      (code 25) 
+      (name /pwm_driver/COL5_SIG) 
+      (node 
+        (ref R21) 
+        (pin 2))) 
+    (net 
+      (code 26) 
+      (name "Net-(C47-Pad2)") 
+      (node 
+        (ref U?5) 
+        (pin 1)) 
+      (node 
+        (ref C47) 
+        (pin 2)) 
+      (node 
+        (ref R21) 
+        (pin 1))) 
+    (net 
+      (code 27) 
+      (name "Net-(C52-Pad2)") 
+      (node 
+        (ref C52) 
+        (pin 2)) 
+      (node 
+        (ref U?6) 
+        (pin 13))) 
+    (net 
+      (code 28) 
+      (name "Net-(R26-Pad1)") 
+      (node 
+        (ref U?6) 
+        (pin 4)) 
+      (node 
+        (ref R26) 
+        (pin 1))) 
+    (net 
+      (code 29) 
+      (name "Net-(C48-Pad2)") 
+      (node 
+        (ref C48) 
+        (pin 2)) 
+      (node 
+        (ref U?6) 
+        (pin 1)) 
+      (node 
+        (ref R22) 
+        (pin 1))) 
+    (net 
+      (code 30) 
+      (name "Net-(C53-Pad2)") 
+      (node 
+        (ref U?7) 
+        (pin 13)) 
+      (node 
+        (ref C53) 
+        (pin 2))) 
+    (net 
+      (code 31) 
+      (name /pwm_driver/COL6_SIG) 
+      (node 
+        (ref R22) 
+        (pin 2))) 
+    (net 
+      (code 32) 
+      (name "Net-(R30-Pad1)") 
+      (node 
+        (ref R30) 
+        (pin 1)) 
+      (node 
+        (ref U?6) 
+        (pin 2))) 
+    (net 
+      (code 33) 
+      (name VPP) 
+      (node 
+        (ref Q5) 
+        (pin 5)) 
+      (node 
+        (ref C30) 
+        (pin 2)) 
+      (node 
+        (ref C32) 
+        (pin 2)) 
+      (node 
+        (ref C28) 
+        (pin 2)) 
+      (node 
+        (ref C24) 
+        (pin 1)) 
+      (node 
+        (ref C26) 
+        (pin 1)) 
+      (node 
+        (ref Q3) 
+        (pin 5)) 
+      (node 
+        (ref Q1) 
+        (pin 5)) 
+      (node 
+        (ref C27) 
+        (pin 2)) 
+      (node 
+        (ref C31) 
+        (pin 2)) 
+      (node 
+        (ref C23) 
+        (pin 1)) 
+      (node 
+        (ref C55) 
+        (pin 1)) 
+      (node 
+        (ref C56) 
+        (pin 1)) 
+      (node 
+        (ref C60) 
+        (pin 2)) 
+      (node 
+        (ref C64) 
+        (pin 2)) 
+      (node 
+        (ref C33) 
+        (pin 2)) 
+      (node 
+        (ref Q13) 
+        (pin 5)) 
+      (node 
+        (ref Q7) 
+        (pin 5)) 
+      (node 
+        (ref C34) 
+        (pin 2)) 
+      (node 
+        (ref C5) 
+        (pin 2)) 
+      (node 
+        (ref J11) 
+        (pin 4)) 
+      (node 
+        (ref C57) 
+        (pin 1)) 
+      (node 
+        (ref C59) 
+        (pin 2)) 
+      (node 
+        (ref C61) 
+        (pin 2)) 
+      (node 
+        (ref C65) 
+        (pin 2)) 
+      (node 
+        (ref C63) 
+        (pin 2)) 
+      (node 
+        (ref C29) 
+        (pin 2)) 
+      (node 
+        (ref Q11) 
+        (pin 5)) 
+      (node 
+        (ref C25) 
+        (pin 1)) 
+      (node 
+        (ref Q9) 
+        (pin 5)) 
+      (node 
+        (ref Q15) 
+        (pin 5)) 
+      (node 
+        (ref C58) 
+        (pin 1)) 
+      (node 
+        (ref C62) 
+        (pin 2)) 
+      (node 
+        (ref C66) 
+        (pin 2))) 
+    (net 
+      (code 34) 
+      (name +12V) 
+      (node 
+        (ref C9) 
+        (pin 2)) 
+      (node 
+        (ref U?7) 
+        (pin 7)) 
+      (node 
+        (ref R29) 
+        (pin 2)) 
+      (node 
+        (ref C10) 
+        (pin 2)) 
+      (node 
+        (ref C43) 
+        (pin 2)) 
+      (node 
+        (ref C7) 
+        (pin 2)) 
+      (node 
+        (ref C13) 
+        (pin 2)) 
+      (node 
+        (ref C4) 
+        (pin 1)) 
+      (node 
+        (ref C12) 
+        (pin 2)) 
+      (node 
+        (ref C3) 
+        (pin 1)) 
+      (node 
+        (ref R11) 
+        (pin 2)) 
+      (node 
+        (ref C14) 
+        (pin 2)) 
+      (node 
+        (ref R12) 
+        (pin 2)) 
+      (node 
+        (ref C1) 
+        (pin 1)) 
+      (node 
+        (ref C11) 
+        (pin 2)) 
+      (node 
+        (ref R9) 
+        (pin 2)) 
+      (node 
+        (ref C35) 
+        (pin 1)) 
+      (node 
+        (ref C39) 
+        (pin 2)) 
+      (node 
+        (ref C45) 
+        (pin 2)) 
+      (node 
+        (ref C36) 
+        (pin 1)) 
+      (node 
+        (ref R10) 
+        (pin 2)) 
+      (node 
+        (ref C40) 
+        (pin 2)) 
+      (node 
+        (ref C2) 
+        (pin 1)) 
+      (node 
+        (ref C8) 
+        (pin 2)) 
+      (node 
+        (ref J11) 
+        (pin 1)) 
+      (node 
+        (ref R32) 
+        (pin 2)) 
+      (node 
+        (ref C44) 
+        (pin 2)) 
+      (node 
+        (ref R30) 
+        (pin 2)) 
+      (node 
+        (ref U?8) 
+        (pin 7)) 
+      (node 
+        (ref U?6) 
+        (pin 7)) 
+      (node 
+        (ref C46) 
+        (pin 2)) 
+      (node 
+        (ref C38) 
+        (pin 1)) 
+      (node 
+        (ref C37) 
+        (pin 1)) 
+      (node 
+        (ref C41) 
+        (pin 2)) 
+      (node 
+        (ref C42) 
+        (pin 2)) 
+      (node 
+        (ref U?3) 
+        (pin 7)) 
+      (node 
+        (ref U?1) 
+        (pin 7)) 
+      (node 
+        (ref U?4) 
+        (pin 7)) 
+      (node 
+        (ref C6) 
+        (pin 1)) 
+      (node 
+        (ref U?2) 
+        (pin 7)) 
+      (node 
+        (ref R31) 
+        (pin 2)) 
+      (node 
+        (ref U?5) 
+        (pin 7))) 
+    (net 
+      (code 35) 
+      (name /pwm_driver/COL8_OUT) 
+      (node 
+        (ref Q16) 
+        (pin 5)) 
+      (node 
+        (ref U?8) 
+        (pin 11)) 
+      (node 
+        (ref Q15) 
+        (pin 3)) 
+      (node 
+        (ref Q15) 
+        (pin 2)) 
+      (node 
+        (ref Q15) 
+        (pin 1)) 
+      (node 
+        (ref C54) 
+        (pin 1))) 
+    (net 
+      (code 36) 
+      (name /pwm_driver/COL7_OUT) 
+      (node 
+        (ref Q13) 
+        (pin 2)) 
+      (node 
+        (ref U?7) 
+        (pin 11)) 
+      (node 
+        (ref C53) 
+        (pin 1)) 
+      (node 
+        (ref Q14) 
+        (pin 5)) 
+      (node 
+        (ref Q13) 
+        (pin 3)) 
+      (node 
+        (ref Q13) 
+        (pin 1))) 
+    (net 
+      (code 37) 
+      (name /pwm_driver/COL6_OUT) 
+      (node 
+        (ref Q12) 
+        (pin 5)) 
+      (node 
+        (ref C52) 
+        (pin 1)) 
+      (node 
+        (ref U?6) 
+        (pin 11)) 
+      (node 
+        (ref Q11) 
+        (pin 3)) 
+      (node 
+        (ref Q11) 
+        (pin 2)) 
+      (node 
+        (ref Q11) 
+        (pin 1))) 
+    (net 
+      (code 38) 
+      (name "Net-(R29-Pad1)") 
+      (node 
+        (ref U?5) 
+        (pin 2)) 
+      (node 
+        (ref R29) 
+        (pin 1))) 
+    (net 
+      (code 39) 
+      (name "Net-(C51-Pad2)") 
+      (node 
+        (ref U?5) 
+        (pin 13)) 
+      (node 
+        (ref C51) 
+        (pin 2))) 
+    (net 
+      (code 40) 
+      (name /pwm_driver/COL5_OUT) 
+      (node 
+        (ref Q9) 
+        (pin 3)) 
+      (node 
+        (ref U?5) 
+        (pin 11)) 
+      (node 
+        (ref C51) 
+        (pin 1)) 
+      (node 
+        (ref Q10) 
+        (pin 5)) 
+      (node 
+        (ref Q9) 
+        (pin 2)) 
+      (node 
+        (ref Q9) 
+        (pin 1))) 
+    (net 
+      (code 41) 
+      (name "Net-(R32-Pad1)") 
+      (node 
+        (ref U?8) 
+        (pin 2)) 
+      (node 
+        (ref R32) 
+        (pin 1))) 
+    (net 
+      (code 42) 
+      (name "Net-(D15-Pad1)") 
+      (node 
+        (ref R39) 
+        (pin 2)) 
+      (node 
+        (ref D15) 
+        (pin 1)) 
+      (node 
+        (ref U?8) 
+        (pin 12))) 
+    (net 
+      (code 43) 
+      (name "Net-(R10-Pad1)") 
+      (node 
+        (ref U?2) 
+        (pin 2)) 
+      (node 
+        (ref R10) 
+        (pin 1))) 
+    (net 
+      (code 44) 
+      (name "Net-(C20-Pad2)") 
+      (node 
+        (ref U?2) 
+        (pin 13)) 
+      (node 
+        (ref C20) 
+        (pin 2))) 
+    (net 
+      (code 45) 
+      (name "Net-(D3-Pad1)") 
+      (node 
+        (ref U?2) 
+        (pin 12)) 
+      (node 
+        (ref R15) 
+        (pin 2)) 
+      (node 
+        (ref D3) 
+        (pin 1))) 
+    (net 
+      (code 46) 
+      (name "Net-(R9-Pad1)") 
+      (node 
+        (ref R9) 
+        (pin 1)) 
+      (node 
+        (ref U?1) 
+        (pin 2))) 
+    (net 
+      (code 47) 
+      (name "Net-(C19-Pad2)") 
+      (node 
+        (ref U?1) 
+        (pin 13)) 
+      (node 
+        (ref C19) 
+        (pin 2))) 
+    (net 
+      (code 48) 
+      (name "Net-(D8-Pad1)") 
+      (node 
+        (ref R20) 
+        (pin 2)) 
+      (node 
+        (ref U?4) 
+        (pin 6)) 
+      (node 
+        (ref D8) 
+        (pin 1))) 
+    (net 
+      (code 49) 
+      (name "Net-(R8-Pad1)") 
+      (node 
+        (ref R8) 
+        (pin 1)) 
+      (node 
+        (ref U?4) 
+        (pin 4))) 
+    (net 
+      (code 50) 
+      (name "Net-(R12-Pad1)") 
+      (node 
+        (ref R12) 
+        (pin 1)) 
+      (node 
+        (ref U?4) 
+        (pin 2))) 
+    (net 
+      (code 51) 
+      (name "Net-(C22-Pad2)") 
+      (node 
+        (ref C22) 
+        (pin 2)) 
+      (node 
+        (ref U?4) 
+        (pin 13))) 
+    (net 
+      (code 52) 
+      (name "Net-(D7-Pad1)") 
+      (node 
+        (ref R19) 
+        (pin 2)) 
+      (node 
+        (ref D7) 
+        (pin 1)) 
+      (node 
+        (ref U?4) 
+        (pin 12))) 
+    (net 
+      (code 53) 
+      (name "Net-(R11-Pad1)") 
+      (node 
+        (ref R11) 
+        (pin 1)) 
+      (node 
+        (ref U?3) 
+        (pin 2))) 
+    (net 
+      (code 54) 
+      (name "Net-(C21-Pad2)") 
+      (node 
+        (ref U?3) 
+        (pin 13)) 
+      (node 
+        (ref C21) 
+        (pin 2))) 
+    (net 
+      (code 55) 
+      (name "Net-(R28-Pad1)") 
+      (node 
+        (ref R28) 
+        (pin 1)) 
+      (node 
+        (ref U?8) 
+        (pin 4))) 
+    (net 
+      (code 56) 
+      (name "Net-(D16-Pad1)") 
+      (node 
+        (ref R40) 
+        (pin 2)) 
+      (node 
+        (ref U?8) 
+        (pin 6)) 
+      (node 
+        (ref D16) 
+        (pin 1))) 
+    (net 
+      (code 57) 
+      (name "Net-(D15-Pad2)") 
+      (node 
+        (ref R39) 
+        (pin 1)) 
+      (node 
+        (ref D15) 
+        (pin 2)) 
+      (node 
+        (ref Q15) 
+        (pin 4))) 
+    (net 
+      (code 58) 
+      (name "Net-(C50-Pad2)") 
+      (node 
+        (ref C50) 
+        (pin 2)) 
+      (node 
+        (ref U?8) 
+        (pin 1)) 
+      (node 
+        (ref R24) 
+        (pin 1))) 
+    (net 
+      (code 59) 
+      (name /pwm_driver/COL1_SIG) 
+      (node 
+        (ref R1) 
+        (pin 2))) 
+    (net 
+      (code 60) 
+      (name /pwm_driver/COL8_SIG) 
+      (node 
+        (ref R24) 
+        (pin 2))) 
+    (net 
+      (code 61) 
+      (name /pwm_driver/COL3_SIG) 
+      (node 
+        (ref R3) 
+        (pin 2))) 
+    (net 
+      (code 62) 
+      (name /pwm_driver/COL4_SIG) 
+      (node 
+        (ref R4) 
+        (pin 2))) 
+    (net 
+      (code 63) 
+      (name "Net-(R6-Pad1)") 
+      (node 
+        (ref R6) 
+        (pin 1)) 
+      (node 
+        (ref U?2) 
+        (pin 4))) 
+    (net 
+      (code 64) 
+      (name "Net-(D4-Pad1)") 
+      (node 
+        (ref D4) 
+        (pin 1)) 
+      (node 
+        (ref R16) 
+        (pin 2)) 
+      (node 
+        (ref U?2) 
+        (pin 6))) 
+    (net 
+      (code 65) 
+      (name "Net-(D3-Pad2)") 
+      (node 
+        (ref D3) 
+        (pin 2)) 
+      (node 
+        (ref R15) 
+        (pin 1)) 
+      (node 
+        (ref Q3) 
+        (pin 4))) 
+    (net 
+      (code 66) 
+      (name "Net-(D4-Pad2)") 
+      (node 
+        (ref D4) 
+        (pin 2)) 
+      (node 
+        (ref R16) 
+        (pin 1)) 
+      (node 
+        (ref Q4) 
+        (pin 4))) 
+    (net 
+      (code 67) 
+      (name "Net-(D5-Pad1)") 
+      (node 
+        (ref R17) 
+        (pin 2)) 
+      (node 
+        (ref U?3) 
+        (pin 12)) 
+      (node 
+        (ref D5) 
+        (pin 1))) 
+    (net 
+      (code 68) 
+      (name /pwm_driver/COL3_OUT) 
+      (node 
+        (ref Q5) 
+        (pin 3)) 
+      (node 
+        (ref Q5) 
+        (pin 2)) 
+      (node 
+        (ref Q5) 
+        (pin 1)) 
+      (node 
+        (ref U?3) 
+        (pin 11)) 
+      (node 
+        (ref C21) 
+        (pin 1)) 
+      (node 
+        (ref Q6) 
+        (pin 5))) 
+    (net 
+      (code 69) 
+      (name "Net-(D6-Pad2)") 
+      (node 
+        (ref R18) 
+        (pin 1)) 
+      (node 
+        (ref Q6) 
+        (pin 4)) 
+      (node 
+        (ref D6) 
+        (pin 2))) 
+    (net 
+      (code 70) 
+      (name "Net-(D6-Pad1)") 
+      (node 
+        (ref D6) 
+        (pin 1)) 
+      (node 
+        (ref R18) 
+        (pin 2)) 
+      (node 
+        (ref U?3) 
+        (pin 6))) 
+    (net 
+      (code 71) 
+      (name "Net-(D5-Pad2)") 
+      (node 
+        (ref Q5) 
+        (pin 4)) 
+      (node 
+        (ref D5) 
+        (pin 2)) 
+      (node 
+        (ref R17) 
+        (pin 1))) 
+    (net 
+      (code 72) 
+      (name "Net-(C16-Pad2)") 
+      (node 
+        (ref U?2) 
+        (pin 1)) 
+      (node 
+        (ref C16) 
+        (pin 2)) 
+      (node 
+        (ref R2) 
+        (pin 1))) 
+    (net 
+      (code 73) 
+      (name /pwm_driver/COL2_SIG) 
+      (node 
+        (ref R2) 
+        (pin 2))) 
+    (net 
+      (code 74) 
+      (name "Net-(D2-Pad2)") 
+      (node 
+        (ref R14) 
+        (pin 1)) 
+      (node 
+        (ref D2) 
+        (pin 2)) 
+      (node 
+        (ref Q2) 
+        (pin 4))) 
+    (net 
+      (code 75) 
+      (name "Net-(D2-Pad1)") 
+      (node 
+        (ref R14) 
+        (pin 2)) 
+      (node 
+        (ref D2) 
+        (pin 1)) 
+      (node 
+        (ref U?1) 
+        (pin 6))) 
+    (net 
+      (code 76) 
+      (name "Net-(D1-Pad1)") 
+      (node 
+        (ref U?1) 
+        (pin 12)) 
+      (node 
+        (ref R13) 
+        (pin 2)) 
+      (node 
+        (ref D1) 
+        (pin 1))) 
+    (net 
+      (code 77) 
+      (name /pwm_driver/COL1_OUT) 
+      (node 
+        (ref U?1) 
+        (pin 11)) 
+      (node 
+        (ref C19) 
+        (pin 1)) 
+      (node 
+        (ref Q1) 
+        (pin 2)) 
+      (node 
+        (ref Q1) 
+        (pin 3)) 
+      (node 
+        (ref Q2) 
+        (pin 5)) 
+      (node 
+        (ref Q1) 
+        (pin 1))) 
+    (net 
+      (code 78) 
+      (name "Net-(D1-Pad2)") 
+      (node 
+        (ref R13) 
+        (pin 1)) 
+      (node 
+        (ref D1) 
+        (pin 2)) 
+      (node 
+        (ref Q1) 
+        (pin 4))) 
+    (net 
+      (code 79) 
+      (name "Net-(C15-Pad2)") 
+      (node 
+        (ref U?1) 
+        (pin 1)) 
+      (node 
+        (ref R1) 
+        (pin 1)) 
+      (node 
+        (ref C15) 
+        (pin 2))) 
+    (net 
+      (code 80) 
+      (name /pwm_driver/COL2_OUT) 
+      (node 
+        (ref Q4) 
+        (pin 5)) 
+      (node 
+        (ref Q3) 
+        (pin 2)) 
+      (node 
+        (ref U?2) 
+        (pin 11)) 
+      (node 
+        (ref Q3) 
+        (pin 1)) 
+      (node 
+        (ref C20) 
+        (pin 1)) 
+      (node 
+        (ref Q3) 
+        (pin 3))) 
+    (net 
+      (code 81) 
+      (name "Net-(R5-Pad1)") 
+      (node 
+        (ref R5) 
+        (pin 1)) 
+      (node 
+        (ref U?1) 
+        (pin 4))) 
+    (net 
+      (code 82) 
+      (name "Net-(C18-Pad2)") 
+      (node 
+        (ref C18) 
+        (pin 2)) 
+      (node 
+        (ref R4) 
+        (pin 1)) 
+      (node 
+        (ref U?4) 
+        (pin 1))) 
+    (net 
+      (code 83) 
+      (name "Net-(R25-Pad1)") 
+      (node 
+        (ref R25) 
+        (pin 1)) 
+      (node 
+        (ref U?5) 
+        (pin 4))) 
+    (net 
+      (code 84) 
+      (name "Net-(D9-Pad1)") 
+      (node 
+        (ref D9) 
+        (pin 1)) 
+      (node 
+        (ref U?5) 
+        (pin 12)) 
+      (node 
+        (ref R33) 
+        (pin 2))) 
+    (net 
+      (code 85) 
+      (name "Net-(D10-Pad1)") 
+      (node 
+        (ref U?5) 
+        (pin 6)) 
+      (node 
+        (ref R34) 
+        (pin 2)) 
+      (node 
+        (ref D10) 
+        (pin 1))) 
+    (net 
+      (code 86) 
+      (name "Net-(D9-Pad2)") 
+      (node 
+        (ref Q9) 
+        (pin 4)) 
+      (node 
+        (ref D9) 
+        (pin 2)) 
+      (node 
+        (ref R33) 
+        (pin 1))) 
+    (net 
+      (code 87) 
+      (name "Net-(D10-Pad2)") 
+      (node 
+        (ref Q10) 
+        (pin 4)) 
+      (node 
+        (ref R34) 
+        (pin 1)) 
+      (node 
+        (ref D10) 
+        (pin 2))) 
+    (net 
+      (code 88) 
+      (name "Net-(R7-Pad1)") 
+      (node 
+        (ref R7) 
+        (pin 1)) 
+      (node 
+        (ref U?3) 
+        (pin 4))) 
+    (net 
+      (code 89) 
+      (name /pwm_driver/COL4_OUT) 
+      (node 
+        (ref Q7) 
+        (pin 2)) 
+      (node 
+        (ref Q7) 
+        (pin 1)) 
+      (node 
+        (ref Q7) 
+        (pin 3)) 
+      (node 
+        (ref Q8) 
+        (pin 5)) 
+      (node 
+        (ref C22) 
+        (pin 1)) 
+      (node 
+        (ref U?4) 
+        (pin 11))) 
+    (net 
+      (code 90) 
+      (name "Net-(C17-Pad2)") 
+      (node 
+        (ref U?3) 
+        (pin 1)) 
+      (node 
+        (ref R3) 
+        (pin 1)) 
+      (node 
+        (ref C17) 
+        (pin 2))) 
+    (net 
+      (code 91) 
+      (name "Net-(D8-Pad2)") 
+      (node 
+        (ref R20) 
+        (pin 1)) 
+      (node 
+        (ref D8) 
+        (pin 2)) 
+      (node 
+        (ref Q8) 
+        (pin 4))) 
+    (net 
+      (code 92) 
+      (name "Net-(D7-Pad2)") 
+      (node 
+        (ref Q7) 
+        (pin 4)) 
+      (node 
+        (ref D7) 
+        (pin 2)) 
+      (node 
+        (ref R19) 
+        (pin 1)))))

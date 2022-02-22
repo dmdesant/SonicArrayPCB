@@ -1,4 +1,4 @@
-19826550565077106
+19826550996577027
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77554,8 +77554,8 @@ rotary encoder
 4
 SeniorDesign
 CMOD A7
-Through hole straight pin header, 1x24, 1.00mm pitch, single row
-Through hole pin header THT 1x24 1.00mm single row
+Through hole straight pin header, 1x24, 2.54mm pitch, single row
+Through hole pin header THT 1x24 2.54mm single row
 0
 48
 48

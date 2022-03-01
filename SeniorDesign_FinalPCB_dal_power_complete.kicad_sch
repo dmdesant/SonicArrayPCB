@@ -5546,40 +5546,40 @@
       (reference "C22") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061903adc"
-      (reference "C23") (unit 1) (value "470u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C23") (unit 1) (value "470u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-00006192f903"
-      (reference "C24") (unit 1) (value "100u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C24") (unit 1) (value "100u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061940713"
-      (reference "C25") (unit 1) (value "100u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C25") (unit 1) (value "100u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061a4a8f1"
-      (reference "C26") (unit 1) (value "100u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C26") (unit 1) (value "100u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-0000619040c9"
-      (reference "C27") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C27") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-00006192f909"
-      (reference "C28") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C28") (unit 1) (value "1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061940719"
-      (reference "C29") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C29") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061a4a8f7"
-      (reference "C30") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C30") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061904aec"
-      (reference "C31") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C31") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-00006192f90f"
-      (reference "C32") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C32") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-00006194071f"
-      (reference "C33") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C33") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061a4a8fd"
-      (reference "C34") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C34") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061ad4085"
       (reference "C35") (unit 1) (value "47u") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -5642,40 +5642,40 @@
       (reference "C54") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061ad405a"
-      (reference "C55") (unit 1) (value "100u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C55") (unit 1) (value "100u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061ad414a"
-      (reference "C56") (unit 1) (value "100u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C56") (unit 1) (value "100u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061ad423a"
-      (reference "C57") (unit 1) (value "100u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C57") (unit 1) (value "100u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061ad432a"
-      (reference "C58") (unit 1) (value "100u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C58") (unit 1) (value "100u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061ad4060"
-      (reference "C59") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C59") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061ad4150"
-      (reference "C60") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C60") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061ad4240"
-      (reference "C61") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C61") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061ad4330"
-      (reference "C62") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C62") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061ad4066"
-      (reference "C63") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C63") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061ad4156"
-      (reference "C64") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C64") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061ad4246"
-      (reference "C65") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C65") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/00000000-0000-0000-0000-000061b00b00/00000000-0000-0000-0000-000061ad4336"
-      (reference "C66") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C66") (unit 1) (value "0.1u") (footprint "SeniorDesign:C_1206_3216Metric")
     )
     (path "/3956dfd2-4302-4ca2-bc45-c46b5932870e"
       (reference "C67") (unit 1) (value "470uF 25V") (footprint "Capacitor_SMD:CP_Elec_10x10")
